@@ -32,7 +32,7 @@ The models were evaluated on unseen data and predictions were visualized to comp
 ## Sample Output
 
 ### Linear Regression Prediction
-![Linear Regression](./gold-price-forecasting/images/Linear Regression Prediction.png)
+![Linear Regression](https://github.com/kevinrichaard/gold-price-forecasting-ml/blob/main/gold-price-forecasting-ml/images/Linear%20Regression%20Prediction.png?raw=true)
 
 ### Random Forest Prediction
-![Random Forest](./gold-price-forecasting/images/Random Forest Prediction.png)
+![Random Forest](https://github.com/kevinrichaard/gold-price-forecasting-ml/blob/main/gold-price-forecasting-ml/images/Random%20Forest%20Prediction.png?raw=true)
