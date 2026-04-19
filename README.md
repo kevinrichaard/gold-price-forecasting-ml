@@ -28,3 +28,11 @@ The models were evaluated on unseen data and predictions were visualized to comp
 - Avoiding data leakage in time-series problems
 - Importance of lag features
 - Comparing different ML models for forecasting
+
+## Sample Output
+
+### Linear Regression Prediction
+![Linear Regression](gold-price-forecasting-ml/images/Linear Regression Prediction.png)
+
+### Random Forest Prediction
+![Random Forest](gold-price-forecasting-ml/images/Random Forest Prediction.png)
